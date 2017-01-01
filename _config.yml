@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en"
+locale                   : "zh-TW"
 title                    : "CIRC 34th blog"
-title_separator          : "-"
+title_separator          : "::"
 name                     : "CIRC 34th"
-description              : "TCFSH CIRC 34th blog."
+description              : "TCFSH CIRC 34th blog. 一個中一中電研社34屆發廢文的地方 歡迎任何人投稿"
 url                      : "https://circ34.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "circ34/circ34.github.io"
@@ -78,8 +78,8 @@ analytics:
 # Site Author
 author:
   name             : "CIRC 34th"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "TCFSH CIRC 34th"
+  avatar           : "/assets/images/circ-whale.jpg"
+  bio              : "TCFSH CIRC 34th 中一中電研34屆"
   location         : "Taiwan"
   email            :
   uri              :
