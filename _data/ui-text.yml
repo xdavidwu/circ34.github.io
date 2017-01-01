@@ -365,13 +365,13 @@ zh-TW:
   menu_label                 :
   toc_label                  : "在本頁上"
   ext_link_label             : "直接連結"
-  less_than                  : "少於"
-  minute_read                : "分鐘 閱讀"
+  less_than                  : "閱讀約"
+  minute_read                : "分鐘"
   share_on_label             : "分享"
   meta_label                 :
   tags_label                 : "標籤:"
   categories_label           : "分類:"
-  date_label                 : "最新的:"
+  date_label                 : "最後更新:"
   comments_label             : "留個言"
   comments_title             : "留言"
   more_label                 : "了解更多"
