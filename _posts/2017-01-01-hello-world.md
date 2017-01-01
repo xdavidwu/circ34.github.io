@@ -4,6 +4,7 @@ categories:
   - Test
 tags:
   - test
+comments: true
 ---
 
 ### 終於，一個屬於 *中一中電研34屆* 的網站誕生了
