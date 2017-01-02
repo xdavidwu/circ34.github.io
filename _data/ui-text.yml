@@ -358,8 +358,8 @@ zh-SG:
   <<: *DEFAULT_ZH
 zh-TW:
   page                       : "頁面"
-  pagination_previous        : "向前"
-  pagination_next            : "向後"
+  pagination_previous        : "上一篇"
+  pagination_next            : "下一篇"
   breadcrumb_home_label      : "首頁"
   breadcrumb_separator       : "/"
   menu_label                 :
@@ -372,11 +372,11 @@ zh-TW:
   tags_label                 : "標籤:"
   categories_label           : "分類:"
   date_label                 : "最後更新:"
-  comments_label             : "留個言"
+  comments_label             : "留言"
   comments_title             : "留言"
   more_label                 : "了解更多"
   related_label              : "猜您還喜歡"
-  follow_label               : "關注:"
+  follow_label               : "追蹤:"
   feed_label                 : "Feed"
   powered_by                 : "Powered by"
   website_label              : "網站"
