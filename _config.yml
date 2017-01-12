@@ -81,7 +81,7 @@ author:
   avatar           : "/assets/images/circ-whale.png"
   bio              : "TCFSH CIRC 34th 中一中電研34屆"
   location         : "Taiwan"
-  email            :
+  email            : "tcfshcirc107@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -241,6 +241,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
