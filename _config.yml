@@ -7,20 +7,20 @@
 
 # Site Settings
 locale                   : "zh-TW"
-title                    : "CIRC 34th blog"
+title                    : "205之火系魔法師也能做烤肉！"
 title_separator          : "::"
-name                     : "CIRC 34th"
-description              : "TCFSH CIRC 34th blog. 一個中一中電研社34屆發廢文的地方 歡迎任何人投稿"
-url                      : "https://circ34.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "circ34/circ34.github.io"
+name                     : "火系魔法師"
+description              : "TCFSH 205 園遊會攤位火系魔法師也能做烤肉"
+url                      : "https://xdavidwu.github.io"
+baseurl                  : "/ofiveblog"
+repository               : "xdavidwu/ofiveblog"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "disqus"#, "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : "circ34"
+    shortname            : "ofiveblog"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -77,19 +77,19 @@ analytics:
 
 # Site Author
 author:
-  name             : "CIRC 34th"
-  avatar           : "/assets/images/circ-whale.png"
-  bio              : "TCFSH CIRC 34th 中一中電研34屆"
+  name             : "Lv.99 火系大魔法師"
+  avatar           : #"/assets/images/circ-whale.png"
+  bio              : "由TCFSH 205村出發修行30年後的火系魔法師"
   location         : "Taiwan"
-  email            : "tcfshcirc107@gmail.com"
+  email            : #"tcfshcirc107@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "tcfshcirc"
+  facebook         : #"tcfshcirc"
   foursquare       :
-  github           : "circ34"
+  github           : "xdavidwu"
   google_plus      :
   keybase          :
   instagram        :
