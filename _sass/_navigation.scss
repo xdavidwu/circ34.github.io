@@ -190,6 +190,7 @@
 
     &:hover {
       color: $masthead-link-color-hover;
+      background-color: #bf360c;
     }
 
     &.site-title {
@@ -203,7 +204,7 @@
     border: 0;
     outline: none;
     color: #fff;
-    background-color: $primary-color;
+    background-color: #bf360c;
     cursor: pointer;
   }
 
@@ -261,7 +262,7 @@
     padding: 5px;
     border: 1px solid $border-color;
     border-radius: $border-radius;
-    background: #fff;
+    background: #bf360c;
     box-shadow: 0 2px 4px 0 rgba(#000, 0.16), 0 2px 10px 0 rgba(#000, 0.12);
 
     &.hidden {
@@ -275,7 +276,7 @@
 
       &:hover {
         color: $masthead-link-color-hover;
-        background: mix(#fff, $primary-color, 75%);
+        background-color: #bf360c;
       }
     }
 
@@ -300,7 +301,7 @@
       width: 0;
       border-style: solid;
       border-width: 0 10px 10px;
-      border-color: #fff transparent;
+      border-color: #bf360c transparent;
       display: block;
       z-index: 1;
     }
