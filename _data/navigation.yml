@@ -6,5 +6,5 @@ main:
     url: /categories/
   - title: "文章標籤"
     url: /tags/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "角色資料"
+    url: /about/
