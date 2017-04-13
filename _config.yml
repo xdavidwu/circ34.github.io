@@ -87,7 +87,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : #"tcfshcirc"
+  facebook         : "205-火系魔法師也能做烤肉-1794141084223707"
   foursquare       :
   github           : "xdavidwu"
   google_plus      :
@@ -174,7 +174,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: "Asia/Taipei" # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
