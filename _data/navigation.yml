@@ -1,10 +1,10 @@
 # main links
 main:
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "文章分類"
     url: /categories/
   - title: "文章標籤"
     url: /tags/
   - title: "角色資料"
     url: /about/
+  - title: "攤位位置"
+    url: /location/
